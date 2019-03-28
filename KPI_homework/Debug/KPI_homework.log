@@ -1,1 +1,19 @@
-﻿  KPI_homework.vcxproj -> F:\Code\c++\KPI_homework\Debug\KPI_homework.exe
+﻿  KPI_homework.cpp
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(153): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(166): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(178): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(180): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(189): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(192): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(218): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(221): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(243): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(246): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(385): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(409): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(414): warning C4018: <: несоответствие типов со знаком и без знака
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(581): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  KPI_homework.vcxproj -> F:\Code\c++\KPI_homework\Debug\KPI_homework.exe
