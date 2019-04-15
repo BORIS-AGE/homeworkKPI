@@ -1,4 +1,5 @@
 ﻿  KPI_homework.cpp
 f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(219): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
 f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(387): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+f:\code\c++\kpi_homework\kpi_homework\kpi_homework.cpp(939): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   KPI_homework.vcxproj -> F:\Code\c++\KPI_homework\x64\Debug\KPI_homework.exe
